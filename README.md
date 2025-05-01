@@ -26,7 +26,7 @@ To get started, you need to install the Firebase Auth plugin for Strapi. We reco
 ### Via Command Line
 
 ```bash
-yarn add strapi-firebase-auth-mtcn
+yarn add @mtcndyl/strapi-plugin-firebase-auth
 ```
 
 Once the installation is complete, you must rebuild your Strapi instance. You can do this with the following commands:
