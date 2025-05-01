@@ -1,5 +1,5 @@
 {
-  "name": "strapi-plugin-firebase-autH-mtcn",
+  "name": "strapi-plugin-firebase-auth-mtcn",
   "version": "1.0.2",
   "description": "This is a Strapi plugin connect and authenticate users using firebase",
   "strapi": {
